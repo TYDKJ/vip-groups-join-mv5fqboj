@@ -1,0 +1,15 @@
+{
+  "name": "קבוצות VIP",
+  "short_name": "VIP",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a2033",
+  "theme_color": "#0a0e19",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
